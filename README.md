@@ -1,4 +1,6 @@
-<img align="right" width="500" height="320" src="https://github.com/abhishekmazumder/abhishekmazumder/blob/main/assets/ghcover.png" alt="cover" />
+<div align="center">
+ <img width="100%"  src="https://github.com/abhishekmazumder/abhishekmazumder/blob/main/assets/ghcover.png" alt="cover" />
+</div>
 
 
 
