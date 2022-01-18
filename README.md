@@ -1,15 +1,10 @@
 
 
-
-
-### Hi Fellow Coders, 
-### Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
 [![Github](https://img.shields.io/badge/-GITHUB-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/abhishekmazumder)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcodes19@gmail.com)
 
-
+### Hey Fellow Coders, 
+### Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Hi, I am [ABHISHEK MAZUMDER](https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
 
