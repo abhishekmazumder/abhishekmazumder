@@ -11,7 +11,7 @@
 
 - 💻 I ~like~ ❤️ **building solutions**
 - 🔭 I’m currently working on **building my personal portfolio app in React Native**
-- 🌱 I’m currently learning **Blockchain ans Supplychain Management**
+- 🌱 I’m currently learning **Blockchain & Supplychain Management**
 - 💬 Ask me about anything **I am happy to help!**
 
 ### My Stack (MERN):
