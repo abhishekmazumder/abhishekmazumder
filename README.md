@@ -20,8 +20,6 @@
 - 🌱 I’m currently learning **Blockchain ans Supplychain Management**
 - 💬 Ask me about anything **I am happy to help!**
 
-- :mailbox: You can reach me with the links below
-
 
 
 <h3 align="left">Languages and Tools:</h3>
