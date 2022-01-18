@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmazumder&show_icons=true&locale=en&layout=compact" alt="abhishekmazumder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&show_icons=true&locale=en" alt="abhishekmazumder" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&show_icons=true&locale=en" alt="abhishekmazumder" /></p>
