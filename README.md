@@ -12,7 +12,7 @@
 
 
 
-### Hi, I am [ABHISHEK MAZUMDER](https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
+#### Hi, I am [ABHISHEK MAZUMDER](https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /> </p>
 
@@ -21,66 +21,28 @@
 - 🌱 I’m currently learning **Blockchain ans Supplychain Management**
 - 💬 Ask me about anything **I am happy to help!**
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### My Stack (MERN):
 
 <table>
-  <tbody>
+  <tbody> 
     <tr valign="top">
-      <td width="25%" align="center">
-        
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      <td align="center">
+        <img height="24px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
-      <td width="25%" align="center">
-        
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      <td align="center">
+        <img height="24px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      <td align="center">
+        <img height="24px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="25%" align="center">
-        
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-       
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+      <td align="center">
+        <img height="24px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
   </tbody>
 </table>
+
+
 
 
 
