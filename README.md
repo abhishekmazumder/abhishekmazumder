@@ -1,14 +1,13 @@
-
-
-[![Github](https://img.shields.io/badge/-GITHUB-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/abhishekmazumder)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcodes19@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /></p>
 
 ### Hey Fellow Coders, 
 ### Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Hi, I am [ABHISHEK MAZUMDER](https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /> </p>
+[![Github](https://img.shields.io/badge/-GITHUB-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/abhishekmazumder)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcodes19@gmail.com)
+
 
 - 💻 I ~like~ ❤️ **building solutions**
 - 🔭 I’m currently working on **building my personal portfolio app in React Native**
