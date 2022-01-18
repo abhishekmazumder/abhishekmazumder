@@ -16,6 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /> </p>
 
+- 💻 I ~like~ **love** building solutions
 - 🔭 I’m currently working on **building my personal portfolio app in React Native**
 - 🌱 I’m currently learning **Blockchain ans Supplychain Management**
 - 💬 Ask me about anything **I am happy to help!**
