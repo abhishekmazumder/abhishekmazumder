@@ -3,7 +3,7 @@
 </div>
 
 
-### Hello Fellow Coders, 
+### Hi Fellow Coders, 
 ### Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
