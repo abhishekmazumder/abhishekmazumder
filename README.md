@@ -9,6 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /></p>
 
+<img src="https://github.com/abhishekmazumder/abhishekmazumder/blob/main/assets/ghcover.png" />
+
 - 💻 I ~like~ ❤️ **building solutions**
 - 🔭 I’m currently working on **building my personal portfolio app in React Native**
 - 🌱 I’m currently learning **Blockchain & Supplychain Management**
