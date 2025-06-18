@@ -8,12 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /></p>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&show_icons=true&locale=en&theme=gotham" alt="abhishekmazumder" /></p>
+
 
 💻 I ~like~ ❤️ **building solutions** <br/>
 🔭 I’m currently working on **nursery app in React Native** <br/>
 🌱 I’m currently learning **Blockchain & Supplychain Management** <br/>
 💬 Ask me about anything **I am happy to help!**
+
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&show_icons=true&locale=en&theme=gotham" alt="abhishekmazumder" /></p>
 
 ### My Stack (MERN):
 
