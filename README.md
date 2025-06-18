@@ -1,4 +1,4 @@
-<img align="center"  height="50%" src="https://github.com/abhishekmazumder/abhishekmazumder/blob/main/assets/ghcover.png" />
+<img align="center"  height="40%" src="https://github.com/abhishekmazumder/abhishekmazumder/blob/main/assets/ghcover.png" />
 
 ### Hey Fellow Coders, 
 ### Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
