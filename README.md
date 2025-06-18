@@ -1,5 +1,5 @@
 ### Hey Fellow Coders, 
-### Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome To My GitHub Page   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Github](https://img.shields.io/badge/-GITHUB-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/abhishekmazumder)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcodes19@gmail.com)
