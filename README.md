@@ -6,7 +6,7 @@
 
 #### Hi, I am [ABHISHEK MAZUMDER](https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /></p> -->
 
 
 
