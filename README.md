@@ -10,7 +10,7 @@
 
 
 
-💻 I ~like~ ❤️ **building solutions** <br/>
+💻 I ~like~ ❤️ **building digital solutions** <br/>
 🔭 I’m currently working on **nursery app in React Native** <br/>
 🌱 I’m currently learning **Blockchain & Supplychain Management** <br/>
 💬 Ask me about anything **I am happy to help!**
