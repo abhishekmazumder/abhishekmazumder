@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=abhishekmazumder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmazumder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="abhishekmazumder" /></p>
-<br />
+
 ![](https://nirzak-streak-stats.vercel.app/?user=abhishekmazumder&theme=radical&hide_border=false)
 
 
