@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-GITHUB-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/abhishekmazumder)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcodes19@gmail.com)
 
-#### Hi, I am **[ABHISHEK MAZUMDER]**(https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
+#### Hi, I am [ABHISHEK MAZUMDER](https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /></p>
 
@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 #
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishekmazumder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abhishekmazumder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=abhishekmazumder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmazumder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
