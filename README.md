@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-GITHUB-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/abhishekmazumder)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcodes19@gmail.com)
 
-### Hi, I am [ABHISHEK MAZUMDER](https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
+#### Hi, I am **[ABHISHEK MAZUMDER]**(https://github.com/abhishekmazumder), a self-taught full stack web developer & freelancer with a strong eye for innovative design and a deep understanding of techniques used in all stages of the development cycle for dynamic web projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmazumder" /></p>
 
