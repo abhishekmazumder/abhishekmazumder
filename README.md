@@ -27,6 +27,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmazumder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+#GitHub_Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="abhishekmazumder" /></p>
+<p><img align="right" src="https://nirzak-streak-stats.vercel.app/?user=abhishekmazumder&theme=radical&hide_border=false" alt="abhishekmazumder" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmazumder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="abhishekmazumder" /></p>
+
+
+
 
 
 
@@ -38,7 +45,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhishekmazumder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abhishekmazumder&theme=radical&no-frame=false&no-bg=false&margin-w=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -53,11 +60,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmazumder&show_icons=true&locale=en&layout=compact" alt="abhishekmazumder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&show_icons=true&locale=en" alt="abhishekmazumder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmazumder&" alt="abhishekmazumder" /></p>
 
 
 
