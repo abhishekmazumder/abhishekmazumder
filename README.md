@@ -10,10 +10,10 @@
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&show_icons=true&locale=en&theme=gotham" alt="abhishekmazumder" /></p>
 
-- 💻 I ~like~ ❤️ **building solutions**
-- 🔭 I’m currently working on **nursery app in React Native**
-- 🌱 I’m currently learning **Blockchain & Supplychain Management**
-- 💬 Ask me about anything **I am happy to help!**
+💻 I ~like~ ❤️ **building solutions**
+🔭 I’m currently working on **nursery app in React Native**
+🌱 I’m currently learning **Blockchain & Supplychain Management**
+💬 Ask me about anything **I am happy to help!**
 
 ### My Stack (MERN):
 
