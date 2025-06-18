@@ -15,7 +15,7 @@
 🌱 I’m currently learning **Blockchain & Supplychain Management** <br/>
 💬 Ask me about anything **I am happy to help!**
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&show_icons=true&locale=en&theme=gotham" alt="abhishekmazumder" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=abhishekmazumder&show_icons=true&locale=en&theme=gotham" alt="abhishekmazumder" /></p>
 
 ### My Stack (MERN):
 
