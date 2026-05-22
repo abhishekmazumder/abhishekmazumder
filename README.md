@@ -22,13 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=abhishekmazumder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmazumder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="abhishekmazumder" /></p>
-
-![](https://nirzak-streak-stats.vercel.app/?user=abhishekmazumder&theme=radical&hide_border=false)
 
 
 
